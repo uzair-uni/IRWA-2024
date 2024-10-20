@@ -1,6 +1,12 @@
 # IRWA-2024
 
-This is the first deliverable and first part of the project of Information retrieval and web analytics. 
+This is the repository for group G_102_9 of Information retrieval and web analytics. 
+
+##Members
+
+Marc Riera u199905
+Uzair Ramzan u199323
+Payden Knettles u250322
 
 ##Contents
 
