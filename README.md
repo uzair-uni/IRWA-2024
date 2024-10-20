@@ -3,8 +3,8 @@
 This is the first deliberable and first part of the project of Information retrieval and web analytics. 
 
 ##Contents
-This deliverable contains a pdf report with the description of the work done and justifications for our desitions at the time of processing the data.
 
+This deliverable contains a pdf report with the description of the work done and justifications for our desitions at the time of processing the data.
 It also contains the python notebook with all the code used to process and analyse the data provided.
 
 ##Usage
