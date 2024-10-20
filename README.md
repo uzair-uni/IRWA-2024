@@ -4,8 +4,7 @@ This is the first deliverable and first part of the project of Information retri
 
 ##Contents
 
-This deliverable contains a pdf report with the description of the work done and justifications for our decitions at the time of processing the data.
-It also contains the python notebook with all the code used to process and analyse the data provided.
+This deliverable contains the python notebook with all the code used to process and analyse the data provided.
 
 ##Usage
 
