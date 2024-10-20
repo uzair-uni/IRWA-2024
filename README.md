@@ -8,6 +8,6 @@ This deliverable contains the python notebook with all the code used to process 
 
 ##Usage
 
-To use this project simply download the .ipynb file, and open it with any program that supports it. Before running all cells it is very important to go to the data loading cell (4th cell) and change the doc path to your own route to the farmers-protest-tweets.json file.
+To use this project simply download the .ipynb file in the tag, and open it with any program that supports it. Before running all cells it is very important to go to the data loading cell (4th cell) and change the doc path to your own route to the farmers-protest-tweets.json file.
 
 Once this is done, to see every part of the work just run all cells in order, the code is commented so that everything that happens is understandable and can be followed.
