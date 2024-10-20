@@ -2,12 +2,12 @@
 
 This is the first deliberable and first part of the project of Information retrieval and web analytics. 
 
-#Contents
+##Contents
 This deliverable contains a pdf report with the description of the work done and justifications for our desitions at the time of processing the data.
 
 It also contains the python notebook with all the code used to process and analyse the data provided.
 
-#Usage
+##Usage
 
 To use this project simply download the .ipynb file, and open it with any program that supports it. Before running all cells it is very important to go through the data loading cell (4th cell) and change the doc path to your own route to the farmers-protest-tweets.json file.
 
