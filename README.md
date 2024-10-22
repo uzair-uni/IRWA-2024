@@ -1,6 +1,6 @@
 # IRWA-2024
 
-This is the repository for group G_102_10 of Information retrieval and web analytics. 
+This is the repository for group G_102_9 of Information retrieval and web analytics. 
 
 ##Members
 
