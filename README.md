@@ -6,7 +6,6 @@ This is the repository for group G_102_9 of Information retrieval and web analyt
 
 Marc Riera u199905
 Uzair Ramzan u199323
-Payden Knettles u250322
 
 ##Contents
 
