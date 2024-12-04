@@ -9,10 +9,11 @@ Uzair Ramzan u199323
 
 ##Contents
 
-This deliverable contains the python notebook with all the code used to process and analyse the data provided.
+This deliverable contains the user interface and web analytics for our search engine.
 
 ##Usage
 
-To use this project simply download the .ipynb file in the corresponding tag and open it with any program that supports it. Before running all cells it is very important to go to the data loading cells and change the doc path to your own input files.
+To run part 4 of the project you need to download the zip file on the last release IRWA-2024-Part4, then add the farmers-protest-tweets.json into the search-engine-web-app_final directory, open this directory in the terminal and execute:
+python web_app.py
 
-Once this is done, to see every part of the work just run all cells in order, the code is commented so that everything that happens is understandable and can be followed.
+more details on the report.
